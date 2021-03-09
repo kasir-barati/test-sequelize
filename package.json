@@ -1,0 +1,23 @@
+{
+  "name": "test-sequelize",
+  "version": "1.0.0",
+  "description": "I will implement multiple test here",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJB-Khorasani/test-sequelize.git"
+  },
+  "keywords": [],
+  "author": "MJB-Khorasani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MJB-Khorasani/test-sequelize/issues"
+  },
+  "homepage": "https://github.com/MJB-Khorasani/test-sequelize#readme",
+  "dependencies": {
+    "sequelize": "^6.5.0"
+  }
+}
